@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/FirstStepsInCoding - Exercise.iml" filepath="$PROJECT_DIR$/.idea/FirstStepsInCoding - Exercise.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../For Loop/.idea/For Loop.iml" filepath="$PROJECT_DIR$/../For Loop/.idea/For Loop.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../NestedLoops/.idea/NestedLoops.iml" filepath="$PROJECT_DIR$/../NestedLoops/.idea/NestedLoops.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../TestExam_28 and 29 March 2020/.idea/TestExam_28 and 29 March 2020.iml" filepath="$PROJECT_DIR$/../TestExam_28 and 29 March 2020/.idea/TestExam_28 and 29 March 2020.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../While-Loop/.idea/While-Loop.iml" filepath="$PROJECT_DIR$/../While-Loop/.idea/While-Loop.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../conditionalStatement/.idea/conditionalStatement.iml" filepath="$PROJECT_DIR$/../conditionalStatement/.idea/conditionalStatement.iml" />
+    </modules>
+  </component>
+</project>
