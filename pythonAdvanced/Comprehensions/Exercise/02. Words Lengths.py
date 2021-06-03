@@ -1,3 +1,7 @@
 text = [word for word in input().split(", ")]
 
-print(f"{' '.join(text,)} -> {[len(word)for word in text]}")
+output = [f'{word} -> {len(word)}'for word in text]
+print(', '.join(output))
+
+
+
